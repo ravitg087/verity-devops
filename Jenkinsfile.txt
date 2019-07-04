@@ -6,7 +6,7 @@ pipeline {
 		// *****ALL CODE TO BE ADDED BELOW THIS COMMENT*****
 		
 			
-		//Code starts for stage Clean
+		//Code starts for stage Clean jjjj
         stage('Clean') {
             steps {
                 sh 'mvn clean'
